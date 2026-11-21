@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "hilali-tests"
+authors:
+  - family-names: "Ait Mohamed"
+    given-names: "Yassine"
+license: MIT
+repository-code: "https://github.com/yassine-aitmohamed/hilali-tests"
+preferred-citation:
+  type: article
+  title: "Hilali's conjecture and negative derivations"
+  authors:
+    - family-names: "Ait Mohamed"
+      given-names: "Yassine"
+  year: 2026
+  notes: "Preprint"

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hilali-tests"
+version = "1.0.0"
+description = "Computations with minimal Sullivan algebras around Hilali's conjecture"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Yassine Ait Mohamed"}]
+requires-python = ">=3.9"
+dependencies = ["numpy"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering :: Mathematics",
+]
+
+[project.urls]
+Homepage = "https://github.com/yassine-aitmohamed/hilali-tests"
+
+[tool.setuptools]
+packages = ["hilali"]
