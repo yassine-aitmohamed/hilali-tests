@@ -219,19 +219,7 @@ which have `dim H = 72` and `dim H = 48`. They also compare modular and exact
 ranks, check the generators, the derivation `δ`, the weighted Euler
 characteristic, and the enumeration of degree types.
 
-## Citation
 
-If you use this code, please cite the paper:
-
-```bibtex
-@misc{AitMohamed2026Hilali,
-  author = {Ait Mohamed, Yassine},
-  title  = {Hilali's conjecture and negative derivations},
-  year   = {2026},
-  note   = {Preprint},
-  url    = {https://github.com/yassine-aitmohamed/hilali-tests}
-}
-```
 
 ## License
 
