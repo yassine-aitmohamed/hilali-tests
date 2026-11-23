@@ -1,7 +1,7 @@
 # hilali-tests
 
 Computations with minimal Sullivan algebras supporting the paper
-*Hilali's conjecture and negative derivations* by Yassine Ait Mohamed.
+*Rational purity and the conjectures of Halperin and Hilali* by Yassine Ait Mohamed.
 
 The package builds random elliptic minimal Sullivan algebras, computes their
 rational cohomology, and tests Hilali's conjecture and its strong form on
